@@ -4,9 +4,10 @@
 
 ## Who am I?
 - I am a Software Engineer who loves to tinker with new technologies just to make life simpler
-- Former Software Engineer at Nintex working with large scale automated document generation
+- Former Software Engineer at Nintex working with experience working with large scale automated document generation
 - 2x Software Engineer intern at SAP
 - Recent Columbia University graduate with a Masters in Computer Science
+- Passionate about coding, cooking, fitness, and bowling
 
 ## Get in touch
 [![Static Badge](https://img.shields.io/badge/WestWay-edb116?style=for-the-badge&label=Personal%20Portfolio)
